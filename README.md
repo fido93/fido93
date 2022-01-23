@@ -6,7 +6,4 @@ Thanks for visiting my profile!
 
 [![Fido github stats](https://github-readme-stats-peach-eight.vercel.app/api?username=fido93&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://stackoverflow.com/users/4360875/fiido93" target="_blank">
-<img alt="StackOverflow"
-src="https://stackoverflow-badge.vercel.app/?userID=4360875" />
-</a>
+<a href="https://stackoverflow.com/users/4360875/fiido93" target="_blank"><img src="https://stackoverflow.com/users/flair/4360875.png?theme=dark" width="208" height="58" alt="profile for Fiido93 at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Fiido93 at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
