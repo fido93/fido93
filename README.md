@@ -6,4 +6,18 @@ Thanks for visiting my profile!
 
 [![Fido github stats](https://github-readme-stats-peach-eight.vercel.app/api?username=fido93&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
+#### 📝 During my free time, Im actively answering question on stackoverflow
 <a href="https://stackoverflow.com/users/4360875/fiido93" target="_blank"><img src="https://stackoverflow.com/users/flair/4360875.png?theme=dark" width="208" height="58" alt="profile for Fiido93 at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Fiido93 at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+
+### Some Facts about Me
+#### 🏫 Education
+ - **College University Poly-Tech Mara Kuala Lumpur** (sep. 2014)
+   - Diploma in Computer Science
+
+#### 📫 How to reach me: ...
+ - Email: [firdauz@revtica.com](mailto:firdauz@revtica.com)
+
+#### 🏆 Awards / Certificates
+ - **1st Place, *Maybank Hackathon*** (2016)
+
+
