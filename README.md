@@ -10,7 +10,7 @@ Thanks for visiting my profile!
 <a href="https://stackoverflow.com/users/4360875/fiido93" target="_blank"><img src="https://stackoverflow.com/users/flair/4360875.png?theme=dark" width="208" height="58" alt="profile for Fiido93 at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Fiido93 at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 #### 🌱 I’m currently learning ...
- - Typescript, C#, PHP
+ - Typescript, C#, PHP, Java,React Native, NodeJs, Crystal
  - Laravel, Blazor, React, Machine Learning, C++, Python
 
 ### Some Facts about Me
