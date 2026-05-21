@@ -19,7 +19,7 @@ Thanks for visiting my profile!
    - Diploma in Computer Science
 
 #### 📫 How to reach me: ...
- - Email: [firdauz@revtica.com](mailto:firdauz@revtica.com)
+ - Not available to contact. Retired from coding
 
 #### 🏆 Awards / Certificates
  - **1st Place, *Maybank Hackathon*** (2016)
